@@ -1,0 +1,3 @@
+# Project exclude paths
+/demo/database/target/
+/demo/service/target/
